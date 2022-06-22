@@ -35,4 +35,4 @@ switch (operations) {
         break;
 }
 
-alert(result);
+alert("The result = "+result);
